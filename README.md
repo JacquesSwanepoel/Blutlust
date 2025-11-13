@@ -19,3 +19,7 @@ In this screenshot you can see the development level (also the only level), it i
 Here is the POV of the player, I also made some view-models for the players. Making these assets is what ultimately made me realize how much work would be needed to make this game. That paired with my inexperience in development and aweful orginization, meant this project was doomed.
 
 <img width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/2f6ef879-8e88-4e72-9117-99f663ac2070" />
+
+-----
+
+I will also attach the project code, I have migrated it to Unity 6.2, meaning a lot of code is broken. But it can still be interesting to see my thought process and "first steps" as a developer.
